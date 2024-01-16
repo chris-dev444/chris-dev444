@@ -4,10 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=101090&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Christopher+Machado;I'm+22+years+old;I'm+from+Brazil;I'm+a+FullStackDeveloper;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chris-dev444&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 <div align="center">  
 <!--   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=chris-dev444 &show_icons=true&count_private=true&hide_border=true&title_color=0000cd&icon_color=87ceeb&text_color=0000cd&bg_color=0d1117" alt="chris-dev444 github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-dev444&layout=compact&hide_border=true&title_color=0000cd&text_color=0000cd&bg_color="850101" /> -->
@@ -20,7 +16,7 @@
   <img align="center" alt="Patrick-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Patrick-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Patrick-Python" height="40" C src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="right" alt="Patrick-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/a199bbed53d90058c8fd4be081cb6ff9.gif">
+   
 </div>
   
    ##
